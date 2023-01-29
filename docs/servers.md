@@ -6,8 +6,7 @@
 
 | 服务器名称 | 服务器模组包 | 模组包版本 | 服务器地址 | 服务器整合包下载 | 其他和备注 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| All The Elytra 7 | All the Mods 7 | 0.4.26 | play.elytra.cn:23006 | [All the Mod 7-0.4.26.zip](http://play.elytra.cn:83/modpacks/All%20the%20Mod%207-0.4.26.zip) | / |
-| AoA+ | Advent of Ascension Plus | *aoap-es-v1* | play.elytra.cn:23013 | [aoap-elytra-spec-1.zip](http://play.elytra.cn:83/modpacks/aoap-elytra-spec-1.zip) | / |
+| Elytra: New Horizon | GT: New Horizon | 2.2.0.0(with Tainted Magic v8.1.1) | play.elytra.cn:31065 | / | `有额外新增加的模组` |
 
 - 如果没有使用斜体或明确标注内容修改，则服务器使用的版本与 CurseForge 上的完全相同。反之，你需要根据指示调整或者使用提供的整合包。
 - 以下情况可能会导致*更换周目*：
@@ -26,6 +25,10 @@
 
 ### 已经废止的服务器
 
+- FTB University 1.16
+- FTB Stoneblock 3
+- All The Mods 7
+- Advent of Ascension Plus
 - Direwolf20 1.18
 - FTB Interactions
 - All the Magic Spellbound
